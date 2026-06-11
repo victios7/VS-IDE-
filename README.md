@@ -1,2 +1,2 @@
 # VS-IDE-
-The vs# ide by Victios7
+The vs# editor by Victios7
